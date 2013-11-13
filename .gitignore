@@ -1,8 +1,11 @@
-.settings
-bin
-gen
-target
-
+# IDEA Ignores
+*.iml
+*.ipr
+*.iws
+.idea/
 local.properties
-build.xml
-proguard.cfg
+
+# Generic Android ignores
+bin/
+target
+gen/
